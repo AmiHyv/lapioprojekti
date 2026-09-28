@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Tässä pieni pätkä tekstiä ja vähän lisää tekstiä.
+=======
+Tässä pieni pätkä tekstiä ja vähän.
+>>>>>>> Stashed changes
