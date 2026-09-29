@@ -1,4 +1,4 @@
-Maito
+Laktoositon maito
 Ruisleipä
 Juusto
 Banaani
@@ -6,3 +6,4 @@ Kananmuna
 Riisi
 Pasta
 Banaani
+Liha
